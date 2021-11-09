@@ -1,0 +1,102 @@
+<style type="text/css">
+body{
+	background-image: url("texture-grey-metallic-background.jpg");
+ background-color: #cccccc;
+	
+}
+.body_items{
+ 	
+ background-color: #cccccc;
+	
+	margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
+
+}
+.imgs{
+	align-self: center;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.centerimg{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.body_css{
+	background-image: url("../Imgs/texture-grey-metallic-background.jpg");
+	background-color: black;
+}
+.iframe-container {
+		text-align:center;
+  		width:100%;
+  	}
+  	.centerlabel {
+		text-align:center;
+  		width:100%;
+  	}
+#image { 
+	float: left;
+	align-self: auto;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+table, th, td{
+	height: 50%;
+	border: 1px solid black;
+	
+}
+h2{
+	color: red;
+	font-family: cursive;
+	font-weight: 500px;
+	text-align: center ;
+	text-decoration: underline;
+}
+h3{
+	color: orange;
+	font-family: cursive;
+	font-weight: 500px;
+	text-align: center ;
+	text-decoration: underline;
+}
+p{
+	text-align: center;
+	color: blue ;
+	font-size: 16px;
+}
+.favorite{
+	font-style: italic;
+}
+a{
+	color: purple;
+	font-size:small;
+	text-decoration: none;
+}
+footer{
+	text-align: center;
+}
+</style>
